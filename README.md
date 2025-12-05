@@ -126,6 +126,15 @@ Shelters can leverage this metric for staffing, funding allocation, and program 
 
 ---
 
+Key Visualizations:
+
+- Monthly Intakes vs Adoptions
+- Length of Stay Distribution
+- Age Distribution of Dogs
+- Adoption Rate by Age Group
+
+---
+
 Relevance to Academic Work
 
 This project demonstrates the application of statistical reasoning, data cleaning, aggregation logic, and visualization in a real-world municipal dataset.
@@ -147,8 +156,8 @@ The project illustrates the ability to:
 Author
 
 Katherine Len
-Statistics Major — Florida State University
-Data Analytics Minor
-Volunteer at local animal rescue organizations
-Interests: applied statistics, data science, computational social science, animal welfare analytics
+- Statistics Major — Florida State University
+- Data Analytics Minor
+- Volunteer at local animal rescue organizations
+- Interests: applied statistics, data science, computational social science, animal welfare analytics
 
