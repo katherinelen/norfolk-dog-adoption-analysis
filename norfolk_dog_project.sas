@@ -7,7 +7,7 @@
    2. Cleans and prepares the data (dogs only)
    3. Computes monthly intake, adoptions, and adoption rate
    4. Creates age groups and adoption rates by age
-   5. Produces main plots for your project
+   5. Produces main plots for the project
    ================================================================ */
 
 options validvarname=any;   /* allow spaces in column names */
